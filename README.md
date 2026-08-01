@@ -21,26 +21,6 @@ Manual surgical instrument counting is still performed multiple times during eve
 
 ---
 
-## Features
-
-- 🥽 Real-time AR interface using Meta Quest Pro
-- 🔍 YOLOv11-based surgical instrument detection
-- 🔢 Automatic surgical instrument counting
-- ⚡ Live tracking during procedures
-- 📊 Automatic logging of detected instruments
-
----
-
-## Tech Stack
-
-- Unity
-- C#
-- Python
-- YOLOv11
-- Meta Quest Pro
-
----
-
 ## My Contributions
 
 Responsible for the Unity application, including:
@@ -60,6 +40,26 @@ Responsible for the Unity application, including:
 - Molly Matri
 - Rahul Ramarao
 - Pradhi Pakkerakari
+
+---
+
+## Features
+
+- 🥽 Real-time AR interface using Meta Quest Pro
+- 🔍 YOLOv11-based surgical instrument detection
+- 🔢 Automatic surgical instrument counting
+- ⚡ Live tracking during procedures
+- 📊 Automatic logging of detected instruments
+
+---
+
+## Tech Stack
+
+- Unity
+- C#
+- Python
+- YOLOv11
+- Meta Quest Pro
 
 ---
 
