@@ -1,6 +1,6 @@
 # ScrubXR
 
-**Winner of the Most Impactful Project Award at**
+**Winner of Most Impactful Project Award at**
 **2026 Cornell Health AI Hackathon!**
 
 Manual surgical instrument counting is still performed multiple times during every operation and remains susceptible to human error. ScrubXR is an augmented reality system that automatically detects, counts, and tracks surgical instruments in real time using computer vision. Built with Unity, YOLOv11, and Meta Quest Pro, the system helps reduce manual surgical counts, improve operating room efficiency, and prevent retained surgical items.
