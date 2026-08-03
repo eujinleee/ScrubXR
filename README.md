@@ -22,7 +22,6 @@ Responsible for the Unity application, including:
 - Designed and developed the AR interface
 - Integrated YOLO object detection into Unity
 - Built the real-time surgical instrument counting system
-- Developed the live visualization and tracking interface
 - Connected the computer vision pipeline with the Meta Quest Pro experience
 
 ---
@@ -43,7 +42,6 @@ Responsible for the Unity application, including:
 - YOLOv11-based surgical instrument detection
 - Automatic surgical instrument counting
 - Live tracking during procedures
-- Automatic logging of detected instruments
 
 ---
 
