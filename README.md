@@ -39,11 +39,11 @@ Responsible for the Unity application, including:
 
 ## Features
 
-- 🥽 Real-time AR interface using Meta Quest Pro
-- 🔍 YOLOv11-based surgical instrument detection
-- 🔢 Automatic surgical instrument counting
-- ⚡ Live tracking during procedures
-- 📊 Automatic logging of detected instruments
+- Real-time AR interface using Meta Quest Pro
+- YOLOv11-based surgical instrument detection
+- Automatic surgical instrument counting
+- Live tracking during procedures
+- Automatic logging of detected instruments
 
 ---
 
